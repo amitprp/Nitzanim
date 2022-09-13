@@ -1,2 +1,2 @@
-def print():
+def wow():
     print("שחררו אותיייייי")
